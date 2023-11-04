@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/6tXM.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
   
 </div>
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="80"/> </h1>
 
 ###
 
@@ -64,7 +64,7 @@
 <!--   <img src="https://streak-stats.demolab.com?user=purna-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=purna-dev&theme=nightowl&hide_border=true&background=EB545400)](https://git.io/streak-stats) -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=purna-dev&theme=nightowl&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
+<a href="https://github.com/purna-dev?tab=repositories"><img src="https://streak-stats.demolab.com?user=purna-dev&theme=nightowl&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
   
 </div>
 
