@@ -2,22 +2,17 @@
   <img height="180" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"  />
   
 </div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<!-- <div align="center"> -->
+  <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> -->
  
-</div>
+<!-- </div> -->
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=purna-dev&"  />
 </div>
 
 ###
-<img align="center" height="50" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />
 <!-- <h1>Hello guys</h1>
 
 ###
@@ -70,7 +65,7 @@
 
 
 
-<h1 align="center">Hi there, I'm Purna Chandra Saren 👋</h1>
+<h1 align="center">Hi there, I'm Purna Chandra Saren <img align="center" height="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" /></h1>
 <h3 align="center">Full Stack Data Science Engineer</h3>
 
 <p align="center">
@@ -95,8 +90,8 @@
 
 I am a Data Scientist who doesn't just stop at the Jupyter Notebook. I specialize in building **end-to-end data products**. I have the mathematical background to build complex ML models and the engineering skills to deploy them into production environments with robust backends and intuitive frontends.
 
-* 🔭 I’m currently working on **[Mention a cool project, e.g., A Real-time NLP Dashboard]**
-* 🌱 I’m currently learning **[New Tech, e.g., GraphQL or Graph Neural Networks]**
+* 🔭 I’m currently working on **[ A Real-time NLP Dashboard]**
+* 🌱 I’m currently learning **[ Graph Neural Networks]**
 * 💡 I'm interested in **MLOps, Data Visualization, and Scalable APIs**
 
 ---
